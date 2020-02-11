@@ -1,0 +1,22 @@
+Mode: ECB Task: Encryption Runtime: 0.0014212161441696156 Ciphertext Generated: b0a47c9b9f9d74b4d577648f7388c99646c515e05deb3692eb4218f88e29630cd11f6eb6000991b7934366259741f19a
+Mode: ECB Task: Encryption Runtime: 0.0017463136734283931 Ciphertext Generated: b0a47c9b9f9d74b4d577648f7388c99646c515e05deb3692eb4218f88e29630cd11f6eb6000991b7934366259741f19a
+Mode: ECB Task: Encryption Runtime: 0.0014740775310409615 Ciphertext Generated: b0a47c9b9f9d74b4d577648f7388c99646c515e05deb3692eb4218f88e29630cd11f6eb6000991b7934366259741f19a
+Mode: ECB Task: Encryption Runtime: 0.001960024708922549 Ciphertext Generated: b0a47c9b9f9d74b4d577648f7388c99646c515e05deb3692eb4218f88e29630cd11f6eb6000991b7934366259741f19a
+Mode: ECB Task: Encryption Runtime: 0.0013910096373859892 Ciphertext Generated: b0a47c9b9f9d74b4d577648f7388c99646c515e05deb3692eb4218f88e29630cd11f6eb6000991b7934366259741f19a
+Mode: ECB Task: Decryption Runtime: 0.0015545023553523664
+Mode: ECB Task: Decryption Runtime: 0.0014351866535570427
+Mode: ECB Task: Decryption Runtime: 0.0029221019499810455
+Mode: ECB Task: Decryption Runtime: 0.0014502899069488559
+Mode: ECB Task: Decryption Runtime: 0.001424991957517569
+Mode: CBC Task: Encryption Runtime: 0.002663458735646246 Ciphertext Generated: 1dbddc01ce18898612ec91c3f127416d91b4a1a842f6def9d78fa48a6b2810c86d79fef0cfc74eb8bd9cc7fdf7ca988b
+Mode: CBC Task: Encryption Runtime: 0.002324390697000041 Ciphertext Generated: 1dc1299fcc899841c18644e8efb923e7b66bb96b42adcbcb00ac68aaf51159c5b4a64d8ffea93739bff1971e224b8a54
+Mode: CBC Task: Encryption Runtime: 0.002070278458682785 Ciphertext Generated: 9eea738151ec73428ae6cc35974d9ab497e2b79e2d6f792fe884cf1364dc76aeda26e09ddcafa096fb850ac8801d010a
+Mode: CBC Task: Encryption Runtime: 0.0021431516562982833 Ciphertext Generated: 648eb06400a058051a26997034930a62f6c7131042e0a73f600a4257602a80c8820aeeff6350e2d8cca927dd4d4d3f0d
+Mode: CBC Task: Encryption Runtime: 0.0029836477075526843 Ciphertext Generated: 444694be5414f20f1c365c3b41a4cc7d173efb4f1bd5b3942ded904c48c527c3858e28e5539dcaa7f8a3388cd0aed93b
+Mode: CBC Task: Decryption Runtime: 0.0015983017901886245
+Mode: CBC Task: Decryption Runtime: 0.0015484610539956412
+Mode: CBC Task: Decryption Runtime: 0.0022549157313977003
+Mode: CBC Task: Decryption Runtime: 0.002050644229273428
+Mode: CBC Task: Decryption Runtime: 0.0016145377875848236
+Mode: CBC Task: Encryption Runtime: 0.0032347331883172026 Ciphertext Generated: 5448a1725dbbda79c64bab60ff38fde9185675c612f875f25004dded8c1bc140a9388973cd00541e05b1c2de8d1d4d9d
+Mode: CBC Task: Decryption Runtime: 0.0023126813094949067
